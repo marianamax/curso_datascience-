@@ -1,5 +1,5 @@
 conteudo_readme = """Análise de Dados: Titanic Dataset
-Desafio extra do curso tratamento Carreira Tech - Trilha Análise de Dados -
+Desafio extra do curso treinamento Carreira Tech - Trilha Análise de Dados -
 Introdução ao Data Science de dados do histórico.
 
 O objetivo:
